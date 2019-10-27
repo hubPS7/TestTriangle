@@ -1,0 +1,14 @@
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\bin\Debug\netcoreapp2.2\Glocodes.LoggerService.deps.json
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\bin\Debug\netcoreapp2.2\Glocodes.LoggerService.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\bin\Debug\netcoreapp2.2\Glocodes.LoggerService.pdb
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\bin\Debug\netcoreapp2.2\Glocodes.Contracts.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\bin\Debug\netcoreapp2.2\Glocodes.Entities.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\bin\Debug\netcoreapp2.2\Glocodes.Contracts.pdb
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\bin\Debug\netcoreapp2.2\Glocodes.Entities.pdb
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\obj\Debug\netcoreapp2.2\Glocodes.LoggerService.csprojAssemblyReference.cache
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\obj\Debug\netcoreapp2.2\Glocodes.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\obj\Debug\netcoreapp2.2\Glocodes.LoggerService.AssemblyInfoInputs.cache
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\obj\Debug\netcoreapp2.2\Glocodes.LoggerService.AssemblyInfo.cs
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\obj\Debug\netcoreapp2.2\Glocodes.LoggerService.csproj.CopyComplete
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\obj\Debug\netcoreapp2.2\Glocodes.LoggerService.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.LoggerService\obj\Debug\netcoreapp2.2\Glocodes.LoggerService.pdb

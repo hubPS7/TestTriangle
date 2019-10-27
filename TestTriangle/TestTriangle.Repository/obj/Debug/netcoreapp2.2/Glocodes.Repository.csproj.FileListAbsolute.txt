@@ -1,0 +1,14 @@
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\bin\Debug\netcoreapp2.2\Glocodes.Repository.deps.json
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\bin\Debug\netcoreapp2.2\Glocodes.Repository.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\bin\Debug\netcoreapp2.2\Glocodes.Repository.pdb
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\bin\Debug\netcoreapp2.2\Glocodes.Contracts.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\bin\Debug\netcoreapp2.2\Glocodes.Entities.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\bin\Debug\netcoreapp2.2\Glocodes.Contracts.pdb
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\bin\Debug\netcoreapp2.2\Glocodes.Entities.pdb
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\obj\Debug\netcoreapp2.2\Glocodes.Repository.csprojAssemblyReference.cache
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\obj\Debug\netcoreapp2.2\Glocodes.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\obj\Debug\netcoreapp2.2\Glocodes.Repository.AssemblyInfoInputs.cache
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\obj\Debug\netcoreapp2.2\Glocodes.Repository.AssemblyInfo.cs
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\obj\Debug\netcoreapp2.2\Glocodes.Repository.csproj.CopyComplete
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\obj\Debug\netcoreapp2.2\Glocodes.Repository.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Repository\obj\Debug\netcoreapp2.2\Glocodes.Repository.pdb

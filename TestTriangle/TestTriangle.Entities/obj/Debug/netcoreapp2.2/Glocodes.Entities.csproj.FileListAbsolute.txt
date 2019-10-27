@@ -1,0 +1,8 @@
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Entities\bin\Debug\netcoreapp2.2\Glocodes.Entities.deps.json
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Entities\bin\Debug\netcoreapp2.2\Glocodes.Entities.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Entities\bin\Debug\netcoreapp2.2\Glocodes.Entities.pdb
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Entities\obj\Debug\netcoreapp2.2\Glocodes.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Entities\obj\Debug\netcoreapp2.2\Glocodes.Entities.AssemblyInfoInputs.cache
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Entities\obj\Debug\netcoreapp2.2\Glocodes.Entities.AssemblyInfo.cs
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Entities\obj\Debug\netcoreapp2.2\Glocodes.Entities.dll
+C:\Users\pankajsapkal\Downloads\Glocodes\Glocodes.Entities\obj\Debug\netcoreapp2.2\Glocodes.Entities.pdb
