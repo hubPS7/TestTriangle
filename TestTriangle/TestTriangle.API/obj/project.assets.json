@@ -13382,11 +13382,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\imp\\personal\\Glocodes\\TestTriangle.API\\TestTriangle.API.csproj",
+      "projectUniqueName": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.API\\TestTriangle.API.csproj",
       "projectName": "TestTriangle.API",
-      "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.API\\TestTriangle.API.csproj",
+      "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.API\\TestTriangle.API.csproj",
       "packagesPath": "C:\\Users\\pankajsapkal\\.nuget\\packages\\",
-      "outputPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.API\\obj\\",
+      "outputPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13405,17 +13405,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\imp\\personal\\Glocodes\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj": {
-              "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj"
+            "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj": {
+              "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj"
             },
-            "C:\\imp\\personal\\Glocodes\\TestTriangle.Entities\\TestTriangle.Entities.csproj": {
-              "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Entities\\TestTriangle.Entities.csproj"
+            "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Entities\\TestTriangle.Entities.csproj": {
+              "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Entities\\TestTriangle.Entities.csproj"
             },
-            "C:\\imp\\personal\\Glocodes\\TestTriangle.LoggerService\\TestTriangle.LoggerService.csproj": {
-              "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.LoggerService\\TestTriangle.LoggerService.csproj"
+            "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.LoggerService\\TestTriangle.LoggerService.csproj": {
+              "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.LoggerService\\TestTriangle.LoggerService.csproj"
             },
-            "C:\\imp\\personal\\Glocodes\\TestTriangle.Repository\\TestTriangle.Repository.csproj": {
-              "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Repository\\TestTriangle.Repository.csproj"
+            "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Repository\\TestTriangle.Repository.csproj": {
+              "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Repository\\TestTriangle.Repository.csproj"
             }
           }
         }

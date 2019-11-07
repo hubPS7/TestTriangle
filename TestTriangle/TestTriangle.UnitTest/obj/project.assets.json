@@ -15017,11 +15017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\imp\\personal\\Glocodes\\TestTriangle.UnitTest\\TestTriangle.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.UnitTest\\TestTriangle.UnitTest.csproj",
       "projectName": "TestTriangle.UnitTest",
-      "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.UnitTest\\TestTriangle.UnitTest.csproj",
+      "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.UnitTest\\TestTriangle.UnitTest.csproj",
       "packagesPath": "C:\\Users\\pankajsapkal\\.nuget\\packages\\",
-      "outputPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15040,8 +15040,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\imp\\personal\\Glocodes\\TestTriangle.API\\TestTriangle.API.csproj": {
-              "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.API\\TestTriangle.API.csproj"
+            "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.API\\TestTriangle.API.csproj": {
+              "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.API\\TestTriangle.API.csproj"
             }
           }
         }

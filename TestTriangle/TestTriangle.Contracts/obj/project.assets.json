@@ -3595,11 +3595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\imp\\personal\\Glocodes\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj",
       "projectName": "TestTriangle.Contracts",
-      "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj",
+      "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj",
       "packagesPath": "C:\\Users\\pankajsapkal\\.nuget\\packages\\",
-      "outputPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3618,8 +3618,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\imp\\personal\\Glocodes\\TestTriangle.Entities\\TestTriangle.Entities.csproj": {
-              "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Entities\\TestTriangle.Entities.csproj"
+            "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Entities\\TestTriangle.Entities.csproj": {
+              "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Entities\\TestTriangle.Entities.csproj"
             }
           }
         }

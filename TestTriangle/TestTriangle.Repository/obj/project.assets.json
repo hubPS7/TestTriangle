@@ -3746,11 +3746,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\imp\\personal\\Glocodes\\TestTriangle.Repository\\TestTriangle.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Repository\\TestTriangle.Repository.csproj",
       "projectName": "TestTriangle.Repository",
-      "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Repository\\TestTriangle.Repository.csproj",
+      "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Repository\\TestTriangle.Repository.csproj",
       "packagesPath": "C:\\Users\\pankajsapkal\\.nuget\\packages\\",
-      "outputPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Repository\\obj\\",
+      "outputPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3769,11 +3769,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\imp\\personal\\Glocodes\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj": {
-              "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj"
+            "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj": {
+              "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Contracts\\TestTriangle.Contracts.csproj"
             },
-            "C:\\imp\\personal\\Glocodes\\TestTriangle.Entities\\TestTriangle.Entities.csproj": {
-              "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Entities\\TestTriangle.Entities.csproj"
+            "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Entities\\TestTriangle.Entities.csproj": {
+              "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Entities\\TestTriangle.Entities.csproj"
             }
           }
         }

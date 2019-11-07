@@ -3599,11 +3599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\imp\\personal\\Glocodes\\TestTriangle.Entities\\TestTriangle.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Entities\\TestTriangle.Entities.csproj",
       "projectName": "TestTriangle.Entities",
-      "projectPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Entities\\TestTriangle.Entities.csproj",
+      "projectPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Entities\\TestTriangle.Entities.csproj",
       "packagesPath": "C:\\Users\\pankajsapkal\\.nuget\\packages\\",
-      "outputPath": "C:\\imp\\personal\\Glocodes\\TestTriangle.Entities\\obj\\",
+      "outputPath": "C:\\Users\\pankajsapkal\\Documents\\GitHub\\TestTriangle\\TestTriangle\\TestTriangle.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
